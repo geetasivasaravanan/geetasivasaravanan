@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geetasivasaravanan
-- 👀 I’m interested in 
+- 👀 I’m interested in jobs related to Data analytics
 - 🌱 I’m currently learning Google Data analytics
 - 💞️ I’m looking to collaborate on SQL, Python & R Programming
 - 📫 How to reach me vivetha@gmail.com
